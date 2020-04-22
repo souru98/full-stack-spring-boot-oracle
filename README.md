@@ -23,12 +23,18 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 ## Progression 1: View Books
   - Your task is to complete the view part of the application. 
   - Fetch the data from oracle and display it.
+  
 ![Output-1](https://i1.faceprep.in/ProGrad/book3.png)
+
 ## Progression 2: Update Books
   - Create a method in controller to update the book data in the database.
+  
 ![Output-2](https://i1.faceprep.in/ProGrad/book2.png)
+
 ## Progression 3: Delete Books
+
  - Create a method to delete the books from oracle database.
+ 
  ![Output-3](https://i1.faceprep.in/ProGrad/book1.png)
 
 
